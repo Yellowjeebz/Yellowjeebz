@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yellowjeebz
 - 👀 I’m interested in Computer Science/Cyber Security
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning C and Haskell
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ... on here?
 
